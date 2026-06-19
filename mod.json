@@ -15,7 +15,7 @@
 	"links": {
 		"community": "https://discord.gg/j8ZWCpCrew",
 		"donation": "https://ko-fi.com/lumoplays",
-		"source": "https://v0-lumoplays.vercel.app"
+		"source": "https://github.com/LumoPlays/GeometryDash-AI-Gen"
 	},
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
