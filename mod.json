@@ -1,0 +1,23 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "lumoplays.ai-level-builder",
+	"name": "AI Level Builder",
+	"version": "v1.0.0",
+	"developer": "LumoPlays",
+	"description": "Generate and build levels using AI text strings! Generate the string with a prompt at https://ailevelbuilder.lovable.app",
+	"about": "Bring your layout ideas to life! Use our companion web page to generate perfect structure layouts using custom prompts. Choose iconic styles like Bloodbath, sync gameplay directly to a song's BPM, and paste the code straight into the editor to build your map instantly.\n\nSpecial thanks to the community for testing!",
+	"links": {
+		"community": "https://discord.gg/j8ZWCpCrew",
+		"donation": "https://ko-fi.com/lumoplays",
+		"source": "https://v0-lumoplays.vercel.app"
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
