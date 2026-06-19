@@ -2,7 +2,7 @@
 ye uhhm... ai builder what else can i say?
 i mean if you want to use it either you get the prompt from https://v0-lumoplays.vercel.app
 after you have the prompt you enter it in any ai, recommended is gemini but works on chatgpt too and gives more detailed and prob better on chatgpt ngl but use whichever you want
-https://google.gemini.com/ https://chatgpt.com/
+https://gemini.google.com/ https://chatgpt.com/
 
 or you copy it from here 
 ```
